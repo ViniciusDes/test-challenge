@@ -116,6 +116,15 @@
       "tipoUsuario": "",
       "ativo": true,
       "id": "15"
+    },
+    {
+      "nome": "Andersonnn",
+      "sobrenome": "Araujo Varejão",
+      "tipoUsuario": "Administrador",
+      "email": "usuario1@email.com.br",
+      "senha": "123445",
+      "ativo": true,
+      "id": "8TIBaR8"
     }
   ]
 }
